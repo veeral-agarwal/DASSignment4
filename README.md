@@ -1,5 +1,5 @@
 # dassignment4
-
+For this assignment, we are analyzing and refactoring the design on an existing software system. Our team read and studied the given codebase, reverse engineer the design, and propose refactoring to improve the code structure for future maintenance and evolution
 
 
 
